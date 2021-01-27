@@ -1,0 +1,67 @@
+Pradeepa Chemistry
+
+Chemistry is the science of molecules and their transformations. It is the science not so much of the one hundred elements but of the infinite variety 
+of molecules that may be built from them ...
+- Roald Hoffmann
+
+Skipped the basics-
+
+						1.5 LAWS OF CHEMICAL COMBINATIONS
+
+
+1. Law of Conservation of Mass
+It states that matter can neither be created nor destroyed.
+
+2. Law of Definite Proportions
+A given compound always contains exactly the same proportion of elements by weight.
+
+3. Law of Multiple Proportions
+If two elements can combine to form more than one compound, the masses of one element that combine with a
+fixed mass of the other element, are in the ratio of small whole numbers.
+
+4. Gay Lussac’s Law of Gaseous Volumes
+When gases combine or are produced in a chemical reaction they do so in a simple ratio by volume provided all gases are at same temperature and pressure.
+
+5. Avogadro Law
+In 1811, Avogadro proposed that equal volumes of gases at the same temperature and pressure should contain equal number of molecules
+
+[Oxygen gas is composed of diatomic (O2) molecules. Many other elements are also composed of homonuclear diatomic molecules (such as: H2, N2, F2, Cl2, Br2, I2).
+
+Interesting history:
+
+In formulating his Atomic Theory, Dalton assumed that the atom was the smallest particle of matter that could exist. He assumed that atoms of one type had certain properties that would allow them to become attached to atoms of other types. He could not understand how two atoms of the same type would form a molecule.
+
+Thus, Dalton wrote the formation of water from hydrogen and oxygen as:
+
+H + O → HO
+
+Dalton know that 8 g of oxygen combined with 1 g of hydrogen in making water. He therefore assumed that the oxygen atom had a relative mass of 8 (if hydrogen had a mass of 1).
+
+Then, Avogadro claimed that equal volumes of gas (at the same temperature and pressure) would contain the same number of particles. The synthesis of water was carried out under circumstances that produced water vapor from hydrogen gas and oxygen gas. The result was:
+
+2 volumes of hydrogen + 1 volume of oxygen → 2 volumes of water vapor
+
+But Dalton said: H + O → HO
+
+He felt that Avogadro was wrong; gas volume did not correlate with the number of particles in the gas.
+
+Avogadro proposed that hydrogen and oxygen consist of diatomic molecules.
+
+If so, the reaction for the formation of water is:
+
+2 H2 + O2 → 2H2O which agrees with his prediction of
+
+2 volumes of hydrogen + 1 volume of oxygen → 2 volumes of water vapor
+
+Thus, we see that 4 g of hydrogen react with 32 g of oxygen to give 36 g of water.
+
+The reacting ratio is: 32g oxygen reacts with 4g hydrogen (ratio of 8:1)
+
+In terms of particle number:
+
+4 hydrogen atoms (weighing 4) react with 2 oxygen atoms (weighing 32).
+]
+
+
+6 DALTON’S ATOMIC THEORY
+
